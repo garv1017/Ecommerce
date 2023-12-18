@@ -2,7 +2,7 @@
 
 ## An E-commerce Store For Glasses
 
-#### - by Saurabh Kumar
+#### - by Garv Kalia
 
 ## Demo
 
